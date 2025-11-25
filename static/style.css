@@ -463,11 +463,11 @@ dialog::backdrop {
 }
 
 .citation-card {
-  background: #111827;
-  color: #e2e8f0;
+  background: #fdfef9;
+  color: var(--text);
   border-radius: 20px;
   padding: 30px;
-  border: 1px solid rgba(226, 232, 240, 0.2);
+  border: 1px solid rgba(118, 185, 0, 0.18);
   font-family: 'Inter', monospace;
   font-size: 0.95rem;
   overflow-x: auto;
